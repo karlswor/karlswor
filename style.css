@@ -35,3 +35,6 @@ ul li a:hover {
 div .intro{
   color: blue;
 }
+img:{
+  display: inline;
+}
